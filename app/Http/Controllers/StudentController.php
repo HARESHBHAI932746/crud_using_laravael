@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-// LOOK HERE you have to import this freking DB
+
  use Illuminate\Support\Facades\DB;
 
 
