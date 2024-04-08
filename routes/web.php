@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-//LOOK HERE you have to import this shit
+
 
 use App\Http\Controllers\StudentController;
 
